@@ -47,3 +47,8 @@
 #### 10. Business Intranet
   - **Considered** [G suite, G suite Docs](https://gsuite.google.com/)
 
+#### 11. Project
+  - **Considered** [Geographical Data To Mapping Service Deloyment With Python](http://kadensungbincho.com/)
+
+#### 12. Network 
+  - Hack & Security
