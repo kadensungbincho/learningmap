@@ -21,8 +21,17 @@
   - **Considered** [Django Basic & Intermediate, Treehouse Django Lecture](https://teamtreehouse.com/library/django-basics)
   
 5. Data Science & Pipeline 
+  - `To Do` [Kibana, Kibana Docs](https://www.elastic.co/learn)
+  - `To Do` [Big Data on Hadoop & Spark, Coursera Big Data Lecture](https://www.coursera.org/specializations/big-data)
   - `Doing` [Pydata Video](https://www.youtube.com/user/PyDataTV)
+  - `Doing` [Data Visualization, Tableau Learning](https://www.tableau.com/learn)
   
 6. Resource Management
   - `Doing` [Trello Learning, Trello Docs](https://trello.com/b/lqGdpm0H/learning-trello)
   - `To Do` [Python based PMS Building, Odoo](https://www.odoo.com/)
+
+7. Programming With Practical Domain Knowledge
+  - **Considered** [Web Scraping, Web Scraping With Python](http://index-of.es/Varios/Ryan%20Mitchell-Web%20Scraping%20with%20Python_%20Collecting%20Data%20from%20the%20Modern%20Web-O'Reilly%20Media%20(2015).pdf)
+  - `Doing` [Python On Finance, Python Algorithm Trading](https://wikidocs.net/book/110)
+  - `To Do` [Python Crawling For Finance-Data Extraction, FinanceData](https://www.facebook.com/financedata/)
+  
