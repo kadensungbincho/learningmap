@@ -5,6 +5,8 @@
   - **Considered** [Python Intermediate, Effective Python](https://legacy.gitbook.com/book/hacktec/effective-python/details)
   - **Considered** [Java Basic, Saengko](https://www.youtube.com/watch?v=qR90tdW0Hbo&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
   - **Considered** [C Basic, This is the C Programming](https://www.youtube.com/watch?v=wWJ3koUPPG4&list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS)
+  - **Considered** [JavaScript Basic, Saengko JavaScript Intro](https://www.youtube.com/watch?v=PZIPsKgWJiw&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
+  - **Considered**  [JavaScript Server Side, Saengko nodejs](https://www.youtube.com/watch?v=AkMjAlHwCy0&list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)
   
 #### 2. Server & OS
   - **Considered** [Ubuntu Intermediate, This is Ubuntu](https://www.youtube.com/watch?v=GXfrReZ7_Og)
@@ -13,6 +15,7 @@
   
 #### 3. Workflow Monitoring
   - `Doing` [Airflow, Docs](https://airflow.apache.org/)
+  - `To Do` [Jenkins, Jenkins Docs](https://jenkins.io/doc/)
   
 #### 4. Web & Mobile App
   - **Considered** [Web App Basic, Make Web App Saengko](https://opentutorials.org/course/1688)
@@ -35,3 +38,12 @@
   - `Doing` [Python On Finance, Python Algorithm Trading](https://wikidocs.net/book/110)
   - `To Do` [Python Crawling For Finance-Data Extraction, FinanceData](https://www.facebook.com/financedata/)
   
+#### 8. DeepLearning
+  - `Doing` [Natural Language Processing, NLP with Pytorch](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/natural-language-processing-with-deeplearning/deeplearning)
+  
+#### 9. Distributed 
+  - **Considered** [DeepLearning Distribution, High Performance Deep Learning](http://www.hoti.org/tutorials/HOTI25_Tutorial_1b.pdf)
+  
+#### 10. Business Intranet
+  - **Considered** [G suite, G suite Docs](https://gsuite.google.com/)
+
