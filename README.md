@@ -57,3 +57,6 @@
 
 #### 13. Network 
   - Hack & Security
+  
+#### 14. Project Management
+  - **Considered** [PM, To be a good Programmer](https://www.youtube.com/watch?v=fHyTA-UIcqs)
