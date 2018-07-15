@@ -27,6 +27,7 @@
   - `Doing` [Database Refactoring, Agiledata on Database Refactoring](http://www.agiledata.org/essays/databaseRefactoring.html)
   
 #### 6. Data Science & Pipeline 
+  - `Doing` [Python Pipeline, Building Pipelien with Python](https://www.youtube.com/watch?v=b2kB_FuAapI)
   - `To Do` [Kibana, Kibana Docs](https://www.elastic.co/learn)
   - `To Do` [Big Data on Hadoop & Spark, Coursera Big Data Lecture](https://www.coursera.org/specializations/big-data)
   - `Doing` [Pydata Video](https://www.youtube.com/user/PyDataTV)
