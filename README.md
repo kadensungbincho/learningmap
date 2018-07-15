@@ -43,6 +43,7 @@
   
 #### 9. Distributed 
   - **Considered** [DeepLearning Distribution, High Performance Deep Learning](http://www.hoti.org/tutorials/HOTI25_Tutorial_1b.pdf)
+  - `To Do` [Distributed Python, Dask](https://dask.pydata.org/en/latest/install.html)
   
 #### 10. Business Intranet
   - **Considered** [G suite, G suite Docs](https://gsuite.google.com/)
