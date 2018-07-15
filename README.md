@@ -23,34 +23,37 @@
   - **Considered** [Flask Basic, Treehouse Flask Lecture](https://www.google.co.kr/search?q=treehouse+flask&rlz=1C5CHFA_enKR787KR788&oq=treehouse+flask&aqs=chrome..69i57j0.4749j0j7&sourceid=chrome&ie=UTF-8)
   - **Considered** [Django Basic & Intermediate, Treehouse Django Lecture](https://teamtreehouse.com/library/django-basics)
   
-#### 5. Data Science & Pipeline 
+#### 5. Database 
+  - `Doing` [Database Refactoring, Agiledata on Database Refactoring](http://www.agiledata.org/essays/databaseRefactoring.html)
+  
+#### 6. Data Science & Pipeline 
   - `To Do` [Kibana, Kibana Docs](https://www.elastic.co/learn)
   - `To Do` [Big Data on Hadoop & Spark, Coursera Big Data Lecture](https://www.coursera.org/specializations/big-data)
   - `Doing` [Pydata Video](https://www.youtube.com/user/PyDataTV)
   - `Doing` [Data Visualization, Tableau Learning](https://www.tableau.com/learn)
   
-#### 6. Resource Management
+#### 7. Resource Management
   - `Doing` [Trello Learning, Trello Docs](https://trello.com/b/lqGdpm0H/learning-trello)
   - `To Do` [Python based PMS Building, Odoo](https://www.odoo.com/)
 
-#### 7. Programming With Practical Domain Knowledge
+#### 8. Programming With Practical Domain Knowledge
   - **Considered** [Web Scraping, Web Scraping With Python](http://index-of.es/Varios/Ryan%20Mitchell-Web%20Scraping%20with%20Python_%20Collecting%20Data%20from%20the%20Modern%20Web-O'Reilly%20Media%20(2015).pdf)
   - `Doing` [Python On Finance, Python Algorithm Trading](https://wikidocs.net/book/110)
   - `To Do` [Python Crawling For Finance-Data Extraction, FinanceData](https://www.facebook.com/financedata/)
   
-#### 8. DeepLearning
+#### 9. DeepLearning
   - `Doing` [Natural Language Processing, NLP with Pytorch](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/natural-language-processing-with-deeplearning/deeplearning)
   - `To Do` [AI, Microsoft AI](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
   
-#### 9. Distributed 
+#### 10. Distributed 
   - **Considered** [DeepLearning Distribution, High Performance Deep Learning](http://www.hoti.org/tutorials/HOTI25_Tutorial_1b.pdf)
   - `To Do` [Distributed Python, Dask](https://dask.pydata.org/en/latest/install.html)
   
-#### 10. Business Intranet
+#### 11. Business Intranet
   - **Considered** [G suite, G suite Docs](https://gsuite.google.com/)
 
-#### 11. Project
+#### 12. Project
   - **Considered** [Geographical Data To Mapping Service Deloyment With Python](http://kadensungbincho.com/)
 
-#### 12. Network 
+#### 13. Network 
   - Hack & Security
