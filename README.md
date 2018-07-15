@@ -40,6 +40,7 @@
   
 #### 8. DeepLearning
   - `Doing` [Natural Language Processing, NLP with Pytorch](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/natural-language-processing-with-deeplearning/deeplearning)
+  - `To Do` [AI, Microsoft AI](https://academy.microsoft.com/en-us/tracks/artificial-intelligence/)
   
 #### 9. Distributed 
   - **Considered** [DeepLearning Distribution, High Performance Deep Learning](http://www.hoti.org/tutorials/HOTI25_Tutorial_1b.pdf)
