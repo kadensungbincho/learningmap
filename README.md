@@ -15,6 +15,7 @@
   
 #### 3. Workflow Monitoring
   - `Doing` [Airflow, Docs](https://airflow.apache.org/)
+  - **Considered** [Airflow, A Practical Introduction to Airflow](https://www.youtube.com/watch?v=cHATHSB_450)
   - `To Do` [Jenkins, Jenkins Docs](https://jenkins.io/doc/)
   
 #### 4. Web & Mobile App
