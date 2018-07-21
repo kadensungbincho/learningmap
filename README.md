@@ -12,6 +12,7 @@
   - **Considered** [Ubuntu Intermediate, This is Ubuntu](https://www.youtube.com/watch?v=GXfrReZ7_Og)
   - `To Do` [Os Basic, Os Concepts](https://medium.com/the-aspiring-programmer-journal/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
   - `Explore` [Linux Basic, A Practical Guide To Linux Commandline](http://www.asfa.k12.al.us/ourpages/auto/2016/8/10/55689107/A-Practical-Guide-to-Linux-Commands-Editors-and-Shell-Programming-2nd-Edition.pdf)
+  - `Doing` [Docker, Docker Docs](https://docs.docker.com/get-started/#docker-concepts)
   
 #### 3. Workflow Monitoring
   - `Doing` [Airflow, Docs](https://airflow.apache.org/)
