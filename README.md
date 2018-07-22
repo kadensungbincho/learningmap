@@ -31,9 +31,10 @@
 #### 6. Data Science & Pipeline 
   - `Doing` [Python Pipeline, Building Pipelien with Python](https://www.youtube.com/watch?v=b2kB_FuAapI)
   - `To Do` [Kibana, Kibana Docs](https://www.elastic.co/learn)
-  - `To Do` [Big Data on Hadoop & Spark, Coursera Big Data Lecture](https://www.coursera.org/specializations/big-data)
+  - `To Do` [Big Data, Coursera Big Data Lecture](https://www.coursera.org/specializations/big-data)
   - `Doing` [Pydata Video](https://www.youtube.com/user/PyDataTV)
   - `Doing` [Data Visualization, Tableau Learning](https://www.tableau.com/learn)
+  - `Doing` [Big data for Data Engineers, Coursera Big Data For Data Engineers Specialization](https://www.coursera.org/learn/big-data-essentials/lecture/wFi6g/why-bigdata)
   
 #### 7. Resource Management
   - `Doing` [Trello Learning, Trello Docs](https://trello.com/b/lqGdpm0H/learning-trello)
