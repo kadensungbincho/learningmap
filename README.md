@@ -15,7 +15,8 @@
   - `Doing` [Docker, Docker Docs](https://docs.docker.com/get-started/#docker-concepts)
   
 #### 3. Workflow Monitoring
-  - `Doing` [Airflow, Docs](https://airflow.apache.org/)
+  - **Considered** [Airflow, Docs](https://airflow.apache.org/)
+  - `Doing` [Airflow, Airflow gotcha](https://gtoonstra.github.io/etl-with-airflow/gotchas.html)
   - **Considered** [Airflow, A Practical Introduction to Airflow](https://www.youtube.com/watch?v=cHATHSB_450)
   - `To Do` [Jenkins, Jenkins Docs](https://jenkins.io/doc/)
   
