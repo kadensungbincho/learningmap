@@ -29,7 +29,6 @@
   - **Considered** [Django Basic & Intermediate, Treehouse Django Lecture](https://teamtreehouse.com/library/django-basics)
   
 #### 5. Database 
-  - `Doing` [Query Advisor, Percona](https://tools.percona.com/sign-in)
   - `Doing` [Database Refactoring, Agiledata on Database Refactoring](http://www.agiledata.org/essays/databaseRefactoring.html)
   
 #### 6. Data Science & Pipeline 
