@@ -70,3 +70,7 @@
 
 #### 15. Documenting
   - 
+  
+#### 16. Eyes-Up
+  - [Neflix data, Delivering High Quality Analytics at Netflix](https://www.youtube.com/watch?v=nMyuCdqzpZc&list=PLSECvWLlUYeG4WmXBYCy9_eCi9xF29MZG)
+  - [Simple, DataEngineering Stack in Simple](https://www.youtube.com/watch?v=9nX35zrN20E)
