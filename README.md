@@ -7,6 +7,7 @@
   - **Considered** [C Basic, This is the C Programming](https://www.youtube.com/watch?v=wWJ3koUPPG4&list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS)
   - **Considered** [JavaScript Basic, Saengko JavaScript Intro](https://www.youtube.com/watch?v=PZIPsKgWJiw&list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
   - **Considered**  [JavaScript Server Side, Saengko nodejs](https://www.youtube.com/watch?v=AkMjAlHwCy0&list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK)
+  - `To Do` [Algorithm to C++]
   
 #### 2. Server & OS
   - **Considered** [Ubuntu Intermediate, This is Ubuntu](https://www.youtube.com/watch?v=GXfrReZ7_Og)
