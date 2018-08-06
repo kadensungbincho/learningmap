@@ -40,6 +40,7 @@
   - `Doing` [Pydata Video](https://www.youtube.com/user/PyDataTV)
   - `Doing` [Data Visualization, Tableau Learning](https://www.tableau.com/learn)
   - `Doing` [Big data for Data Engineers, Coursera Big Data For Data Engineers Specialization](https://www.coursera.org/learn/big-data-essentials/lecture/wFi6g/why-bigdata)
+  - `To Do` [Coding the Matrics]
   
 #### 7. Resource Management
   - `Doing` [Trello Learning, Trello Docs](https://trello.com/b/lqGdpm0H/learning-trello)
